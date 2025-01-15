@@ -1,0 +1,52 @@
+[
+    {
+      "title": "Magic Lantern Festival",
+      "time": "5 PM",
+      "location": "East Garden"
+    },
+    {
+      "title": "The Great Circus Performance",
+      "time": "6:30 PM",
+      "location": "Main Stage"
+    },
+    {
+      "title": "Laser Light Show",
+      "time": "7:30 PM",
+      "location": "Adventure Field"
+    },
+    {
+      "title": "Superhero Meet & Greet",
+      "time": "2 PM",
+      "location": "Hero Square"
+    },
+    {
+      "title": "Wild Animal Parade",
+      "time": "3 PM",
+      "location": "Safari Boulevard"
+    },
+    {
+      "title": "Starlight Dance Party",
+      "time": "11 PM",
+      "location": "Moonlit Plaza"
+    },
+    {
+      "title": "Jungle Adventure Show",
+      "time": "1 PM",
+      "location": "Explorer Arena"
+    },
+    {
+      "title": "Fountain Dance Spectacular",
+      "time": "4 PM",
+      "location": "Grand Fountain"
+    },
+    {
+      "title": "Pirates of the Sea Performance",
+      "time": "7 PM",
+      "location": "Pirate Cove"
+    },
+    {
+      "title": "Fantasy Parade",
+      "time": "12 PM",
+      "location": "Castle Road"
+    }
+]
